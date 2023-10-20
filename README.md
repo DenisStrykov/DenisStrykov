@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BreadcrumbsDenisStrykov.BreadcrumbsDenisStrykov">
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=337DF7FF&lines=Приветствую!+👋;Меня+зовут+Денис+....;Искренне+рад+встречи+!!!&center=true&size=30">
