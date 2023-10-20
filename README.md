@@ -33,11 +33,11 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <a href="https://vk.com/id101843182" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    <a href="https://wa.me/79533378775" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889687-whats-app_82529.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
