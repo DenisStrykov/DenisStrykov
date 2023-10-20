@@ -22,9 +22,13 @@
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-StrykovDenis-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stryk_bro) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:strykov2010g@gmail.com)
 ---
 
-<p align="center">
- <img width="600" src="images/github-snake.svg" alt="snake"/>
-</p>
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DenisStrykov/DenisStrykov/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 
 ### 🤝 Социальные сети:
 
