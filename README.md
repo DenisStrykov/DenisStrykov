@@ -43,12 +43,33 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Технологии и инструменты:
 
 <div align="left">
-  <br>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" /></a>
-  
-  <br/><br/><br/>
+  <img src="https://i.ibb.co/0jnsxk6/java.png" title="java" alt="java" width="60" height="60"/>
+  <img src="https://i.ibb.co/tKnTngK/spring.png" title="spring" alt="spring" width="60" height="60"/>
+  <img src="https://i.ibb.co/j4XxFVg/Hibernate.png" title="hibernate" alt="hibernate" width="60" height="60"/>
+  <img src="https://i.ibb.co/HVQ7X9c/JUnit.png" title="junit" alt="junit" width="60" height="60"/>
+  <img src="https://i.ibb.co/w4Zf6gm/Jupyter.png" title="Jupyter" alt="Jupyter" width="60" height="60"/>
+  <img src="https://i.ibb.co/8BBDg64/Apache-Maven.png" title="maven" alt="maven" width="60" height="60"/>
+  <img src="https://i.ibb.co/D7hwBRr/Gradle.png" title="Gradle" alt="Gradle" width="60" height="60"/>
+  <img src="https://i.ibb.co/SQBNzWD/Apache-Tomcat.png" title="Tomcat" alt="Tomcat" width="60" height="60"/>
+  <img src="https://i.ibb.co/XjY988B/NGINX.png" title="NGINX" alt="NGINX" width="60" height="60"/>
+  <img src="https://i.ibb.co/QN1Jzbg/Docker.png" title="Docker" alt="Docker" width="60" height="60"/>
+  <img src="https://i.ibb.co/r516hPC/Jenkins.png" title="Jenkins" alt="Jenkins" width="60" height="60"/>
+  <img src="https://i.ibb.co/k99Z5vh/Postman.png" title="Postman" alt="Postman" width="60" height="60"/>
+  <img src="https://i.ibb.co/z7HBLGK/Git.png" title="Git" alt="Git" width="60" height="60"/>
+  <img src="https://i.ibb.co/g71jxcZ/GitLab.png" title="GitLab" alt="GitLab" width="60" height="60"/>
+  <img src="https://i.ibb.co/tZmscjM/Postgres-SQL.png" title="Postgres" alt="Postgres" width="60" height="60"/>
+  <img src="https://i.ibb.co/TcQDJf8/MySQL.png" title="MySQL" alt="MySQL" width="60" height="60"/>
+  <img src="https://i.ibb.co/sCCxYDw/Ubuntu.png" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>
+  <img src="https://i.ibb.co/j4m8XsZ/Linux.png" title="Linux" alt="Linux" width="60" height="60"/>
+  <img src="https://i.ibb.co/r4gcPgR/Java-Script.png" title="Java-Script" alt="Java-Script" width="60" height="60"/>
+  <img src="https://i.ibb.co/zXcy9GZ/CSS3.png" title="CSS3" alt="CSS3" width="60" height="60"/>
+  <img src="https://i.ibb.co/grBHvXG/html.png" title="html" alt="html" width="60" height="60"/>
+  <img src="https://i.ibb.co/d7QM1D9/Intelli-J-IDEA.png" title="Intelli" alt="Intelli" width="60" height="60"/>
+  <img src="https://i.ibb.co/JBTvgxG/Visual-Studio-Code-VS-Code.png" title="VS" alt="VS" width="60" height="60"/>
 </div>
+
+
 
