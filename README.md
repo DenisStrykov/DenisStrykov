@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<img align='right' src='https://github.com/DenisStrykov/DenisStrykov/blob/main/images/octocat-anime.gif?raw=true' width='250'>
+<img align='right' src='https://github.com/DenisStrykov/DenisStrykov/blob/main/source/octocat-anime.gif?raw=true' width='250'>
 
 
 ---
