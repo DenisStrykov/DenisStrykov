@@ -1,3 +1,4 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DenisStrykov.DenisStrykov">
 
 <h1 align="center">
@@ -31,6 +32,7 @@
 
 
 ### 🤝 Социальные сети:
+---
 
   <div id="badges">
     <a href="https://vk.com/id101843182" target="_blank">
@@ -41,9 +43,10 @@
     </a>
   </div>
 
----
 
 ### 💻 Технологии и инструменты:
+---
+
 
 <div align="left">
   <img src="https://i.ibb.co/0jnsxk6/java.png" title="java" alt="java" width="60" height="60"/>
@@ -72,7 +75,31 @@
 </div>
 
 
+### ⚙️ GitHub статистика:
+---
+
+
 ![](https://raw.githubusercontent.com/DenisStrykov/DenisStrykov/df88b03cf4f5209b6fa0d516085b083cc838171f/generated/overview.svg)
 ![](https://raw.githubusercontent.com/DenisStrykov/DenisStrykov/86a31a4abc2bd5ccee91f0a103b1c7acdbaae268/generated/languages.svg)
 
+
+### 👨‍💻 Репозитории
+---
+
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/DenisStrykov/recipes_webapp" title="recipes_webapp"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DenisStrykov&repo=recipes_webapp&theme=react&border_color=337df7ff&border_radius=10"></a>
+</div>
+<!--
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div> -->
+
+<br/><br/><br/><br/><br/><br/>
+---
+<h4 align="center">
+  <a href="https://github.com/DenisStrykov?tab=repositories" title="Show Repositories">🔎 смотри еще 🔍</a>
+</h4>
 
