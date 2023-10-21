@@ -73,6 +73,6 @@
 
 
 ![](https://raw.githubusercontent.com/DenisStrykov/DenisStrykov/df88b03cf4f5209b6fa0d516085b083cc838171f/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/DenisStrykov/DenisStrykov/86a31a4abc2bd5ccee91f0a103b1c7acdbaae268/generated/languages.svg)
 
 
