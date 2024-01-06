@@ -18,7 +18,7 @@
 - 🤓 &nbsp; В настоящее время я изучаю JavaScript
 - 🚀 &nbsp; В свободное время прокачиваю себя на [Codewars](https://www.codewars.com) 
 - 📺 &nbsp; Поделись со мной, если любишь сериалы)
-- 📝 &nbsp; Посмотри мое [резюме](https://obninsk.hh.ru/resume/3563f33eff0c7c78b80039ed1f6d7754733769)
+- 📝 &nbsp; Посмотри мое [резюме]()
 - 💬 &nbsp; Спрашивайте меня обо всем, буду рад помочь
 - 📫 Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-StrykovDenis-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stryk_bro) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:strykov2010g@gmail.com)
 ---
